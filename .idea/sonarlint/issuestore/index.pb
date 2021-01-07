@@ -1,0 +1,27 @@
+
+@
+credentials.json,7\4\749dcc9e92f723c96ed4a3a908ded1bc559c66a9
+>
+spatenki.ipynb,5\7\57daf35ea25349cde7e45bd3936be47413b44b4e
+=
+quickstart.py,f\6\f6fc3224b3b24eaf4b903519d48c66d175f42f6d
+M
+spat-299221-4582b86d89f8.json,3\5\35b991b4e1208778633b6f17f30e06fa9243f924
+M
+spat-299221-09b896eba28f.json,d\f\df0226ebcd56f5158e2473d8ffc9e639c48358bb
+;
+chat_bot.py,6\3\630b0c2a0ccb96be92a85531ae017e082fd1b37a
+<
+resources.py,2\a\2a80dc06d27d439ae226b84d078a11298db7d962
+9
+	app.ipynb,1\7\1735606560a00d827df5410d9595fcb05c628cc3
+6
+app.py,1\3\13cce7fd076299c81b4986166f3d822791c9490e
+9
+	piu.ipynb,5\6\564f691e0d81ac0beed5fad7932fb1ac737dd939
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+9
+	Tinker.py,a\c\ac5356da6f7fb01cedc82122b22819fc5881c677
+@
+Templating.ipynb,d\a\dab0300d129b53eb1be9bd82716de21eb9114587
